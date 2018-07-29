@@ -7,7 +7,6 @@ const Container = styled.div`
 margin: 8px;
 border: 1px solid lightgrey;
 border-radius: 2px;
-
 `
 
 class App extends React.Component {

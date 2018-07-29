@@ -6,6 +6,9 @@
 # testing
 /coverage
 
+# history
+/.history
+
 # production
 /build
 

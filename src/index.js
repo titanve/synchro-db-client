@@ -12,11 +12,11 @@ border-radius: 2px;
 class App extends React.Component {
     render(){
         return (
-            <Reac.Fragment>
+            <React.Fragment>
                 <Container>
                 <h1>Synchro db app</h1>
                 </Container>
-            </Reac.Fragment>
+            </React.Fragment>
         )
     }
 }

@@ -9,8 +9,14 @@
 # history
 /.history
 
+# parcel cache folder
+/.cache
+
 # production
 /build
+
+# production
+/dist
 
 # misc
 .DS_Store

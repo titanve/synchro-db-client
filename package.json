@@ -1,0 +1,21 @@
+{
+  "name": "synchro-db-client",
+  "version": "0.0.1",
+  "description": "Synchronization app for db's",
+  "main": "index.js",
+  "repository": "https://github.com/titanve/synchro-db-client.git",
+  "author": "Rafael Mora <rafael.mora.guti@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "prettier": "^1.14.0"
+  },
+  "dependencies": {
+    "@atlaskit/css-reset": "^3.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
+  }
+}
